@@ -71,7 +71,7 @@ dd{
     height: 36px;
 }
 .bg-img{
-    background-image: url(./img/bg-1.1.png);
+    background-image: url(./img/vladimir-malyavko-Q0fYUnxYxtY-unsplash\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -103,6 +103,7 @@ dd{
 
 .header a:hover{
     color: #8F8F8F;
+    background-color: #370c3d;
     transition: 0.3s;
 }
 .header ul{
@@ -120,13 +121,12 @@ dd{
 }
 
 .botao:hover{
-    border: 2px solid #430F4A;
     transition: 0.2s;
-    color: #430F4A;
-    background-color: transparent;
+    background-color: #370c3d;
+   
 }
 
-.introducao{
+.introducao{ 
     padding-left: 25px;
     padding-right: 25px;
     margin-top: 200px;
